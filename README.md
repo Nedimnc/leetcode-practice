@@ -16,7 +16,7 @@ useful as a review tool later (not just a pile of solved problems).
 
 | Date | Problem | Pattern | Difficulty | Link | Status |
 |------|---------|---------|------------|------|--------|
-| YYYY-MM-DD | Two Sum | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved |
+| 2026-09-02 | Two Sum | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved |
 |  |  |  |  |  |  |
 
 **Status key:** ✅ Solved on my own · 🟡 Solved with hints/solution, redo later · 🔁 Redone from memory
@@ -44,5 +44,4 @@ fill it in.
 2. If stuck, look at the solution, understand *why* it works.
 3. Write it up in my own words (approach + complexity).
 4. A day or two later, redo the same problem from scratch, no notes.
-   That's the step that actually builds retrieval, not just recognition.
 5. Update the table above.
