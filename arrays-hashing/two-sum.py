@@ -1,5 +1,5 @@
 """
-Problem: Two Sum
+Problem: Two Sum (Arrays & Hashing Approach)
 Link: https://leetcode.com/problems/two-sum/
 Difficulty: Easy
 Pattern: Arrays & Hashing
