@@ -17,6 +17,9 @@ useful as a review tool later (not just a pile of solved problems).
 | Date | Problem | Pattern | Difficulty | Link | Status |
 |------|---------|---------|------------|------|--------|
 | 2026-09-02 | Two Sum | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved |
+| 2026-09-03 | Two Sum | Binary Search | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | 🟡 Solved |
+| 2026-09-04 | Add Two Numbers | Linked List | Medium | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | 🟡 Solved |
+| 2026-09-02 | Two Sum | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved |
 |  |  |  |  |  |  |
 
 **Status key:** ✅ Solved on my own · 🟡 Solved with hints/solution, redo later · 🔁 Redone from memory
