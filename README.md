@@ -17,6 +17,7 @@ useful as a review tool later (not just a pile of solved problems).
 | Date | Problem | Pattern | Difficulty | Link | Status |
 |------|---------|---------|------------|------|--------|
 | 2026-09-02 | Two Sum | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved |
+| 2026-09-23 | Valid Anagram | Arrays & Hashing | Easy | [LeetCode](https://leetcode.com/problems/valid-anagram/) | ✅ Solved |
 |  |  |  |  |  |  |
 
 **Status key:** ✅ Solved on my own · 🟡 Solved with hints/solution, redo later · 🔁 Redone from memory
